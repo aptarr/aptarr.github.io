@@ -256,7 +256,7 @@ html{
 .main_container .portofolio{
     height: 740px;
     z-index: -1;
-    background-image: url(/Image/back\ akhir.png);
+    background-image: url(Image/back\ akhir.png);
     background-size: cover;
 }
 
