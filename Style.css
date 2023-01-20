@@ -302,6 +302,10 @@ html{
     z-index: 99;
 }
 
+.main_container .portofolio .wrapper_slide a{
+    color: black;
+}
+
 .main_container .portofolio .wrapper_slide .slide_nav a{
     width: 10px;
     height: 10px;
@@ -322,10 +326,6 @@ html{
     border: 3px solid rgb(20, 20, 20);
     background-color: #fdbd15;
     transition: .3s;
-}
-
-.main_container .portofolio .download a{
-    color: black;
 }
 
 .main_container .portofolio .download:hover{
