@@ -124,6 +124,7 @@ html{
     line-height: 90px;
     display: inline-block;
     transition: 1s;
+    z-index: -1;
 }
 
 .main_container .home h1 .anim:hover{
@@ -323,6 +324,10 @@ html{
     transition: .3s;
 }
 
+.main_container .portofolio .download a{
+    color: black;
+}
+
 .main_container .portofolio .download:hover{
     transform: translateY(-5px);
     box-shadow: rgba(0, 0, 0, 1) 0px 4px 0px;
@@ -360,6 +365,7 @@ html{
         background-color: #fef3f9;
         text-align: center;
         transition: all 0.5s;
+        z-index: 1;
     }
     
     .check img{
