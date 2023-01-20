@@ -7,6 +7,7 @@
     list-style: none;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
+    color: black;
 }
 
 html{
@@ -300,10 +301,6 @@ html{
     bottom: 12px;
     margin: 20px 400px;
     z-index: 99;
-}
-
-.main_container .portofolio .wrapper_slide a{
-    color: black;
 }
 
 .main_container .portofolio .wrapper_slide .slide_nav a{
